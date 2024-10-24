@@ -1,0 +1,1 @@
+web: gunicorn INTERVENSI_SYSTEM.wsgi --log-file -
